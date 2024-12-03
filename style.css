@@ -73,14 +73,14 @@ body{
         table {
          font-family:arial, sans-serif;
          border-collapse:collapse;
-         width: 30%;
+         width: 50%;
 
         }
 
         td,th {
           border:1px solid #dddddd;
           text-align: left;
-          padding: 8px;
+          padding: 3px;
         }
 
          tr:nth-child(even) {
@@ -91,4 +91,3 @@ body{
 
 
        </style>
-
