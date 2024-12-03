@@ -43,3 +43,32 @@ body{
 
 }
 
+}
+
+
+
+
+  #toc {
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  #toc ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #toc li {
+    margin: 5px 0;
+  }
+
+  #toc a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+
+  #toc a:hover {
+    text-decoration: underline;
+  }
+
+
